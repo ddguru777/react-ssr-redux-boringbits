@@ -102,7 +102,7 @@
     "moment": "^2.22.2",
     "ncp": "^2.0.0",
     "ndjson": "^1.5.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.4",
     "opn": "^5.4.0",
     "postcss-flexbugs-fixes": "^4.1.0",
