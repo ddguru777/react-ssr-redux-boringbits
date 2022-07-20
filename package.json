@@ -130,7 +130,7 @@
     "slash": "^2.0.0",
     "split2": "^3.1.0",
     "style-loader": "^0.23.0",
-    "terser": "3.11.0",
+    "terser": "4.8.1",
     "terser-webpack-plugin": "^1.1.0",
     "through2": "^3.0.0",
     "time-fix-plugin": "^2.0.5",
